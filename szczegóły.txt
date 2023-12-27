@@ -1,0 +1,3 @@
+funkcja: 
+inline bool IsActive()
+służy do zwracania publicznego elementu m_bActive, jako że jest to element publiczny nie ma potrzeby tworzenia fukcji w celu pozyskania tej wartości
